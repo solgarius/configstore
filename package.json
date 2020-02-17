@@ -1,0 +1,24 @@
+{
+  "name":        "browser-configstore",
+  "version":     "0.1.0",
+  "description": "Wrapper around localstorage, sessionstorage and cookies for json based key/value storage in browser",
+  "main":        "store.js",
+  "scripts":     {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":  {
+    "type": "git",
+    "url": "git+https://github.com/solgarius/configstore.git"
+  },
+  "keywords":    [
+    "config",
+    "browser",
+    "storage"
+  ],
+  "author": "Nick Beckenham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solgarius/configstore/issues"
+  },
+  "homepage": "https://github.com/solgarius/configstore#readme"
+}
